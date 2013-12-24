@@ -1,0 +1,22 @@
+Fujitsu Media Portal
+----------------------
+	http://mediaportal.ts.fujitsu.com
+	UN:	enzo.bastianello@chipcomputers.it
+	PW: ully1973
+	
+Symantec Partner Portal
+--------------------
+	http://partnernet.symantec.com
+	UN:		mail chipcomputers.it
+	PW:		password personale
+	
+Microsoft Partner Network
+----------------------
+	https://partners.microsoft.com
+	UN: 	mail Microsoft LiveID
+	PW:		password personale
+	
+GFI
+----
+	https://www.gfi.com --> Partner Area
+	UN:	
